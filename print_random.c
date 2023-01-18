@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
+#include "random.h"
 
 
 int main()
@@ -18,4 +19,3 @@ int main()
 
 	return(0);
 }
-
